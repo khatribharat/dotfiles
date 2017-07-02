@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=Sublime Text 2
+Icon=/home/khatri/Applications/Sublime Text 2/Icon/256x256/sublime_text.png
+Exec="/home/khatri/Applications/Sublime Text 2/sublime_text"
+OnlyShowIn=Unity;
